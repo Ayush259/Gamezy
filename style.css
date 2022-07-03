@@ -1,0 +1,52 @@
+.a{
+    background-color: rgb(77, 54, 161);
+    position: relative;
+    padding: 40px;
+}
+.c{
+    font-size: 20px;
+    padding-left: 1000px;
+    text-emphasis-color: white;
+    word-spacing: 30px;
+    text-transform: capitalize;
+    position: absolute;
+    
+}
+.d{
+    padding-left: 950px;
+    margin-top: 100px;
+}
+.c a{
+    color: white;
+}
+.e{
+    margin-top: -300px;
+    margin-left: 40px;
+    color: white;
+}
+.btngp{
+    color: white;
+    display: contents;
+}
+.btngp input{
+    size: 30px;
+    font-size: 10px;
+    margin-left: 40px; 
+    font-size: 30px; 
+    border-radius: 5px;
+    border-color: white;
+    display: table-row;
+}
+.f{
+    color: orangered;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.btngp button{
+    background-color: lightgreen;
+    font-size: 30px;
+    border-radius: 5px;
+    border-color: lightgreen;
+    margin-left: 10px;
+    
+}
